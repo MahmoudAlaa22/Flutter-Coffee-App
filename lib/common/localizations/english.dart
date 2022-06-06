@@ -21,4 +21,6 @@ Map<String, String> english = {
   HomeTextKey.vietnameseStyleIcedCoffee: HomeEnText.vietnameseStyleIcedCoffee,
   SettingsTextKey.arabic: SettingsEnText.arabic,
   SettingsTextKey.english: SettingsEnText.english,
+  SettingsTextKey.settings: SettingsEnText.settings,
+  SettingsTextKey.language: SettingsEnText.language,
 };

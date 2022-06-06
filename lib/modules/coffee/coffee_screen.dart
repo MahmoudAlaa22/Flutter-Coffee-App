@@ -1,9 +1,7 @@
 import 'dart:developer';
 
 import 'package:coffee/common/const/constant_variables.dart';
-import 'package:coffee/common/theme/text_style.dart';
 import 'package:coffee/model/coffe_model.dart';
-import 'package:coffee/widgets/auto_size_text_widget/auto_size_text_widget.dart';
 import 'package:coffee/widgets/shadow_in_backgraund/shadow_in_splash.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

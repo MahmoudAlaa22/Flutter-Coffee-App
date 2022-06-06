@@ -23,4 +23,6 @@ Map<String, String> arabic = {
   HomeTextKey.vietnameseStyleIcedCoffee: HomeArText.vietnameseStyleIcedCoffee,
   SettingsTextKey.arabic: SettingsArText.arabic,
   SettingsTextKey.english: SettingsArText.english,
+  SettingsTextKey.settings: SettingsArText.settings,
+  SettingsTextKey.language: SettingsArText.language,
 };

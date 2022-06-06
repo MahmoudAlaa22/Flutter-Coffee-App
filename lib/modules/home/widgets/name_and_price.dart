@@ -4,8 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:outlined_text/outlined_text.dart';
 
-import '../../../widgets/auto_size_text_widget/auto_size_text_widget.dart';
-
 class NameAndPrice extends StatelessWidget {
   const NameAndPrice({Key? key}) : super(key: key);
 

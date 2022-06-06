@@ -3,4 +3,6 @@ class SettingsArText{
   /// Like this 👇.
   static const arabic='عربي';
   static const english='انجليزي';
+  static const settings='الاعدادات';
+  static const language='اللغة';
 }

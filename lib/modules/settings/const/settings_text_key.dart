@@ -3,4 +3,6 @@ class SettingsTextKey{
   /// Like this 👇.
   static const arabic='arabic';
   static const english='english';
+  static const settings='settings';
+  static const language='language';
 }

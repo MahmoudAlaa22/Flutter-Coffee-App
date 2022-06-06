@@ -3,4 +3,6 @@ class SettingsEnText{
   /// Like this 👇.
   static const arabic='Arabic';
   static const english='English';
+  static const settings='Settings';
+  static const language='Language';
 }
